@@ -19,7 +19,6 @@ public class Employee
 
 class Program
 {
-    // Pre-populated with 5 initial records
     static List<Employee> employees = new List<Employee>();
         static void Main(string[] args)
     {
