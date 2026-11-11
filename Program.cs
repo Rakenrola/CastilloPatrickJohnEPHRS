@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
+//This is a feature branch simulation for merge conflict
 public class Employee
 {
     public int Id { get; set; }                     // Column 1
