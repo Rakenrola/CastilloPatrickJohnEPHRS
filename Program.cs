@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 
 //This is a test merge conflict simulation for the main branch
+//This is a feature branch simulation for merge conflict
+//Merged
 public class Employee
 {
     public int Id { get; set; }                     // Column 1
