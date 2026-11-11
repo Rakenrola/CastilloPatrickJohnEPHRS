@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
+//This is a test merge conflict simulation for the main branch
 public class Employee
 {
     public int Id { get; set; }                     // Column 1
