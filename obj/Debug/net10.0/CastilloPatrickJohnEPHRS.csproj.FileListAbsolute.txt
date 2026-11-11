@@ -1,0 +1,14 @@
+D:\Users\Patrick\OneDrive\Documents\Homework\AppDev(3-5)\Generic_Act1\CastilloPatrickJohnEPHRS\bin\Debug\net10.0\CastilloPatrickJohnEPHRS.exe
+D:\Users\Patrick\OneDrive\Documents\Homework\AppDev(3-5)\Generic_Act1\CastilloPatrickJohnEPHRS\bin\Debug\net10.0\CastilloPatrickJohnEPHRS.deps.json
+D:\Users\Patrick\OneDrive\Documents\Homework\AppDev(3-5)\Generic_Act1\CastilloPatrickJohnEPHRS\bin\Debug\net10.0\CastilloPatrickJohnEPHRS.runtimeconfig.json
+D:\Users\Patrick\OneDrive\Documents\Homework\AppDev(3-5)\Generic_Act1\CastilloPatrickJohnEPHRS\bin\Debug\net10.0\CastilloPatrickJohnEPHRS.dll
+D:\Users\Patrick\OneDrive\Documents\Homework\AppDev(3-5)\Generic_Act1\CastilloPatrickJohnEPHRS\bin\Debug\net10.0\CastilloPatrickJohnEPHRS.pdb
+D:\Users\Patrick\OneDrive\Documents\Homework\AppDev(3-5)\Generic_Act1\CastilloPatrickJohnEPHRS\obj\Debug\net10.0\CastilloPatrickJohnEPHRS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Patrick\OneDrive\Documents\Homework\AppDev(3-5)\Generic_Act1\CastilloPatrickJohnEPHRS\obj\Debug\net10.0\CastilloPatrickJohnEPHRS.AssemblyInfoInputs.cache
+D:\Users\Patrick\OneDrive\Documents\Homework\AppDev(3-5)\Generic_Act1\CastilloPatrickJohnEPHRS\obj\Debug\net10.0\CastilloPatrickJohnEPHRS.AssemblyInfo.cs
+D:\Users\Patrick\OneDrive\Documents\Homework\AppDev(3-5)\Generic_Act1\CastilloPatrickJohnEPHRS\obj\Debug\net10.0\CastilloPatrickJohnEPHRS.csproj.CoreCompileInputs.cache
+D:\Users\Patrick\OneDrive\Documents\Homework\AppDev(3-5)\Generic_Act1\CastilloPatrickJohnEPHRS\obj\Debug\net10.0\CastilloPatrickJohnEPHRS.dll
+D:\Users\Patrick\OneDrive\Documents\Homework\AppDev(3-5)\Generic_Act1\CastilloPatrickJohnEPHRS\obj\Debug\net10.0\refint\CastilloPatrickJohnEPHRS.dll
+D:\Users\Patrick\OneDrive\Documents\Homework\AppDev(3-5)\Generic_Act1\CastilloPatrickJohnEPHRS\obj\Debug\net10.0\CastilloPatrickJohnEPHRS.pdb
+D:\Users\Patrick\OneDrive\Documents\Homework\AppDev(3-5)\Generic_Act1\CastilloPatrickJohnEPHRS\obj\Debug\net10.0\CastilloPatrickJohnEPHRS.genruntimeconfig.cache
+D:\Users\Patrick\OneDrive\Documents\Homework\AppDev(3-5)\Generic_Act1\CastilloPatrickJohnEPHRS\obj\Debug\net10.0\ref\CastilloPatrickJohnEPHRS.dll
